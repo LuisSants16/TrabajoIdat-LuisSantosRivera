@@ -312,7 +312,7 @@ body{
 @media (max-width: 768px) {
 
     .container_header{
-        padding: 0 10px;
+        padding: 10px 15px;
     }
 
     .menu_icon {
